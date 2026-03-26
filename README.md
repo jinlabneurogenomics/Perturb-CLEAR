@@ -17,6 +17,6 @@ See PerturbSeqAnalysis and the associated documentation for the code used in ups
 **run_DEG.R**: Identify DEGs using glmGamPoi
 
 ## Joint analysis
-**TWI_calculation.R**: Method to calculate transcriptome wide impact
+**TWI_calculation.R**: Method to calculate transcriptome wide impact  
 **eDist_calculation.R**: Method to calculate eDist
 
