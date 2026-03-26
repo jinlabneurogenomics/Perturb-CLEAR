@@ -6,7 +6,7 @@ We developed Perturb-CLEAR, which integrates pooled CRISPR screening and whole-m
 **generate_output_windows.py**: Image segmentation to create crops of individual neurons using soma coordinates
 
 ## Morphology data QC and quantification
-**swc_qc.py**: script-based quality control of .swc files to remove tracing artifacts
+**swc_qc.py**: script-based quality control of .swc files to remove tracing artifacts  
 **morphometric_feature_extraction.py**: Extract standard morphometrics from swc files
 
 ## Perturb-seq clustering and QC
