@@ -20,3 +20,9 @@ See PerturbSeqAnalysis and the associated documentation for the code used in ups
 **TWI_calculation.R**: Method to calculate transcriptome wide impact  
 **eDist_calculation.R**: Method to calculate eDist
 
+## Developmental Omics
+**ComplexHeatmap_L2-3_L4-5_IT.R**: Visualize gene expression patterns across neuronal subtypes
+**DESeq2_Testing_Mouse_DevVIS_Age.R**: Perform differential expression analysis across developmental ages
+**DEGs_Grouping_by_Expression_Trend.R**: Cluster DEGs based on shared expression dynamics
+**gProfileR_Enrich_by_Expression_Trend.R**: Run pathway and gene set enrichment analysis for genes grouped by expression trends
+**NDD_RiskGenes_FisherEnrichTest.R**: Test enrichment of neurodevelopmental disorder risk genes using Fisher’s exact test
