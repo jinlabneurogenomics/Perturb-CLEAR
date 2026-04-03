@@ -8,7 +8,9 @@ For softwares or packages, the system requiresments and installation guide can b
 - **neuTube v1.0z**: https://neutracing.com/download/
 - **Imagej v1.54r**: https://imagej.net/downloads
 - **R v4.0.3**: https://cran.r-project.org/doc/manuals/r-release/R-admin.html
-- **Python 3.12** https://www.python.org/downloads
+- **Python 3.12** https://www.python.org/downloads  
+
+The expected install time for each software or package should be < 2 hrs.  
 The scripts will run on any system that with R and Python installed.
 
 ## Scripts
