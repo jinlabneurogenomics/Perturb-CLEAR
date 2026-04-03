@@ -21,7 +21,7 @@ The scripts will run on any system that with R and Python installed.
 
 ### Perturb-CLEAR downstream analysis
 - **Analysis.Data.R**: morphology-based clustering, cell type labeling, perturbation testing, and NMF analysis  
-- **Cluster.py**: Contains helper functions used in the Analysis.Data.R
+- **Cluster.R**: Contains helper functions used in the Analysis.Data.R
 
 ### Perturb-seq downstream analysis
 - **DETest.R**: Identify DEGs using glmGamPoi
