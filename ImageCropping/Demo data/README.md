@@ -7,4 +7,6 @@
 - image-orientation: The direction in which the apical dendrites of most neurons in the image extend ("up," "down," "left," or "right"). Use "center" if they extend orthogonally. This helps accommodate the asymmetric shape of pyramidal neurons while keeping the crop size as small as possible.  
 
 ### Example usage
+Demo dataset can be accessed [here](https://drive.google.com/drive/folders/1KDgwfF0jWZOF7RksZZwG29AVtmjJSR3K?usp=sharing).  
+Example command is:  
 py generate_output_windows.py INPUT_DIRECTORY BASE_DIRECTORY "TIFF" --voxel-size 0.305 0.305 2.49 --image-orientation "up"
