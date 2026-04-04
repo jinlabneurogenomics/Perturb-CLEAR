@@ -8,7 +8,7 @@
 
 ## Example usage
 ### Demo dataset
-The demo dataset can be accessed [here](https://drive.google.com/drive/folders/1KDgwfF0jWZOF7RksZZwG29AVtmjJSR3K?usp=sharing).  
+The demo dataset can be accessed [here](https://www.dropbox.com/scl/fo/38p6ct8in3c7yakh721lz/ALF4FfDSoNDAYvY-vtd4iWo?rlkey=bypfhefubk1pdlodiedy5rfgo&st=gfz9zgqa&dl=0).  
 The expected timeline for processing this demo dataset is <1 hr on a normal desktop computer.  
 ### Instruction
 After downloading the dataset, put the SWC and TIFF folders in a parent folder.  
