@@ -1,0 +1,37 @@
+Metrics,Compartment,Morphology
+Basal_bif_childpair_angle_min_mean,Basal,Branch angles
+Basal_bif_parent_child_tilt_min_mean,Basal,Branch angles
+Basal_bif_plane_torque_mean,Basal,Branch angles
+Basal_branch_len_mean,Basal,Size
+Basal_dendrite_total_length,Basal,Size
+Basal_extent_height,Basal,Size
+Basal_n_branches,Basal,Complexity
+Basal_sholl_entropy,Basal,Complexity
+Basal_sholl_radius_com,Basal,Complexity
+Oblique_bif_childpair_angle_min_mean,Oblique,Branch angles
+Oblique_bif_parent_child_tilt_min_mean,Oblique,Branch angles
+Oblique_bif_plane_torque_mean,Oblique,Branch angles
+Oblique_branch_len_mean,Oblique,Size
+Oblique_dendrite_total_length,Oblique,Size
+Oblique_extent_height,Oblique,Size
+Oblique_n_branches,Oblique,Complexity
+Oblique_sholl_entropy,Oblique,Complexity
+Oblique_sholl_radius_com,Oblique,Complexity
+Tuft_bif_childpair_angle_min_mean,Tuft,Branch angles
+Tuft_bif_parent_child_tilt_min_mean,Tuft,Branch angles
+Tuft_bif_plane_torque_mean,Tuft,Branch angles
+Tuft_branch_len_mean,Tuft,Size
+Tuft_dendrite_total_length,Tuft,Size
+Tuft_extent_height,Tuft,Size
+Tuft_n_branches,Tuft,Complexity
+Tuft_sholl_entropy,Tuft,Complexity
+Tuft_sholl_radius_com,Tuft,Complexity
+Global_dendrite_total_length,Global,Size
+Global_extent_height,Global,Size
+Global_extent_width,Global,Size
+Global_n_branches,Global,Complexity
+Global_N_stems,Global,Complexity
+Global_sholl_entropy,Global,Complexity
+Global_sholl_radius_at_peak,Global,Complexity
+Global_sholl_radius_com,Global,Complexity
+Global_sholl_semilog_slope,Global,Complexity
