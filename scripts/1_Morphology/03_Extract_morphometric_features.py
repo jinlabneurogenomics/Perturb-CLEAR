@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Morphometric_feature_extraction.py
 

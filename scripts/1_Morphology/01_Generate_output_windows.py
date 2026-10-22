@@ -158,10 +158,15 @@ def get_image_dimensions(tiff_folder):
 def main():
     parser = argparse.ArgumentParser(description="Convert SWC to CSV and generate output windows, and new soma locations based on the CSV.")
     parser.add_argument("input_directory", type=str, help="Input directory containing the SWC files")
-    parser.add_argument("base_folder", type=str, help="Base folder where the script, TIF/TIFF folder, SWC folder, and soma_location.csv")
+    parser.add_argument("base_folder", type=str, help="Base folder containing the TIF/TIFF folder and receiving the output files")
     parser.add_argument("tiff_folder_name", type=str, help="Name of the folder containing TIF/TIFF files")
     parser.add_argument("--voxel-size", type=float, nargs=3, help="Voxel sizes for X, Y, Z dimensions", default=[0.305, 0.305, 2.49]) #For LS change it to 0.71, 0.71, 0.71 & default=[0.619, 0.619, 2.49])
-    parser.add_argument("--image-orientation", type=str, help="Image orietation, up, down, left, or right")
+    parser.add_argument(
+        "--image-orientation",
+        required=True,
+        choices=["up", "down", "left", "right", "center", "old"],
+        help="Cropping orientation relative to the soma",
+    )
     args = parser.parse_args()
 
     # The directory where it would output the soma location csv file
@@ -174,4 +179,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

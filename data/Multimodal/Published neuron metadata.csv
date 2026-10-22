@@ -1,0 +1,206 @@
+released_neuron_ID,dataset,source_specimen_ID,animal_ID,published_broad_class,RNA_mapping_available,morphology_mapping_available,analytical_role
+486262299,Gouwens2019,486262299,Gouwens2019_485955780.0,L2/3 IT,False,True,normalization only
+487661754,Gouwens2019,487661754,Gouwens2019_487152275.0,L2/3 IT,False,True,normalization only
+513510227,Gouwens2019,513510227,Gouwens2019_510023681.0,L2/3 IT,False,True,normalization only
+513531471,Gouwens2019,513531471,Gouwens2019_510023681.0,L2/3 IT,False,True,normalization only
+521409057,Gouwens2019,521409057,Gouwens2019_520635764.0,L2/3 IT,False,True,normalization only
+565863515,Gouwens2019,565863515,Gouwens2019_563340157.0,L2/3 IT,False,True,normalization only
+571306690,Gouwens2019,571306690,Gouwens2019_570930484.0,L2/3 IT,False,True,normalization only
+584254833,Gouwens2019,584254833,Gouwens2019_583088569.0,L2/3 IT,False,True,normalization only
+584680861,Gouwens2019,584680861,Gouwens2019_583088556.0,L2/3 IT,False,True,normalization only
+584682764,Gouwens2019,584682764,Gouwens2019_583088556.0,L2/3 IT,False,True,normalization only
+314642645,Gouwens2019,314642645,Gouwens2019_313403614.0,L4/5 IT,False,True,normalization only
+314804042,Gouwens2019,314804042,Gouwens2019_313403626.0,L4/5 IT,False,True,normalization only
+314900022,Gouwens2019,314900022,Gouwens2019_313403638.0,L4/5 IT,False,True,normalization only
+318733871,Gouwens2019,318733871,Gouwens2019_318293721.0,L4/5 IT,False,True,normalization only
+318808427,Gouwens2019,318808427,Gouwens2019_318293733.0,L4/5 IT,False,True,normalization only
+321906005,Gouwens2019,321906005,Gouwens2019_320827579.0,L4/5 IT,False,True,normalization only
+323865917,Gouwens2019,323865917,Gouwens2019_322489588.0,L4/5 IT,False,True,normalization only
+324025297,Gouwens2019,324025297,Gouwens2019_322489481.0,L4/5 IT,False,True,normalization only
+324025371,Gouwens2019,324025371,Gouwens2019_322489481.0,L4/5 IT,False,True,normalization only
+329550137,Gouwens2019,329550137,Gouwens2019_328927477.0,L4/5 IT,False,True,normalization only
+349621141,Gouwens2019,349621141,Gouwens2019_339692153.0,L4/5 IT,False,True,normalization only
+354833767,Gouwens2019,354833767,Gouwens2019_339692203.0,L4/5 IT,False,True,normalization only
+370351753,Gouwens2019,370351753,Gouwens2019_339692319.0,L4/5 IT,False,True,normalization only
+382982932,Gouwens2019,382982932,Gouwens2019_339692340.0,L4/5 IT,False,True,normalization only
+386049446,Gouwens2019,386049446,Gouwens2019_339692362.0,L4/5 IT,False,True,normalization only
+386970660,Gouwens2019,386970660,Gouwens2019_339692362.0,L4/5 IT,False,True,normalization only
+395830185,Gouwens2019,395830185,Gouwens2019_339692419.0,L4/5 IT,False,True,normalization only
+397351623,Gouwens2019,397351623,Gouwens2019_385562259.0,L4/5 IT,False,True,normalization only
+397353539,Gouwens2019,397353539,Gouwens2019_385562259.0,L4/5 IT,False,True,normalization only
+422738880,Gouwens2019,422738880,Gouwens2019_397332003.0,L4/5 IT,False,True,normalization only
+467703703,Gouwens2019,467703703,Gouwens2019_339692116.0,L4/5 IT,False,True,normalization only
+468193142,Gouwens2019,468193142,Gouwens2019_339692390.0,L4/5 IT,False,True,normalization only
+469793303,Gouwens2019,469793303,Gouwens2019_418778101.0,L4/5 IT,False,True,normalization only
+469798159,Gouwens2019,469798159,Gouwens2019_418778101.0,L4/5 IT,False,True,normalization only
+471758398,Gouwens2019,471758398,Gouwens2019_469953301.0,L4/5 IT,False,True,normalization only
+473020156,Gouwens2019,473020156,Gouwens2019_469953491.0,L4/5 IT,False,True,normalization only
+473611755,Gouwens2019,473611755,Gouwens2019_472963244.0,L4/5 IT,False,True,normalization only
+475459689,Gouwens2019,475459689,Gouwens2019_475196478.0,L4/5 IT,False,True,normalization only
+476086391,Gouwens2019,476086391,Gouwens2019_475849736.0,L4/5 IT,False,True,normalization only
+476126528,Gouwens2019,476126528,Gouwens2019_475849748.0,L4/5 IT,False,True,normalization only
+476131588,Gouwens2019,476131588,Gouwens2019_475849748.0,L4/5 IT,False,True,normalization only
+476216637,Gouwens2019,476216637,Gouwens2019_475849756.0,L4/5 IT,False,True,normalization only
+476451456,Gouwens2019,476451456,Gouwens2019_475849772.0,L4/5 IT,False,True,normalization only
+476455864,Gouwens2019,476455864,Gouwens2019_475849776.0,L4/5 IT,False,True,normalization only
+476457450,Gouwens2019,476457450,Gouwens2019_475849780.0,L4/5 IT,False,True,normalization only
+476562817,Gouwens2019,476562817,Gouwens2019_475849788.0,L4/5 IT,False,True,normalization only
+476616076,Gouwens2019,476616076,Gouwens2019_476487141.0,L4/5 IT,False,True,normalization only
+476823462,Gouwens2019,476823462,Gouwens2019_476487157.0,L4/5 IT,False,True,normalization only
+477127614,Gouwens2019,477127614,Gouwens2019_476803126.0,L4/5 IT,False,True,normalization only
+477135941,Gouwens2019,477135941,Gouwens2019_476803126.0,L4/5 IT,False,True,normalization only
+478892782,Gouwens2019,478892782,Gouwens2019_478593981.0,L4/5 IT,False,True,normalization only
+479010903,Gouwens2019,479010903,Gouwens2019_478594587.0,L4/5 IT,False,True,normalization only
+479013100,Gouwens2019,479013100,Gouwens2019_478594000.0,L4/5 IT,False,True,normalization only
+479728896,Gouwens2019,479728896,Gouwens2019_478595246.0,L4/5 IT,False,True,normalization only
+480087928,Gouwens2019,480087928,Gouwens2019_479695183.0,L4/5 IT,False,True,normalization only
+480124551,Gouwens2019,480124551,Gouwens2019_479695199.0,L4/5 IT,False,True,normalization only
+483020137,Gouwens2019,483020137,Gouwens2019_481097262.0,L4/5 IT,False,True,normalization only
+483061182,Gouwens2019,483061182,Gouwens2019_480773220.0,L4/5 IT,False,True,normalization only
+484564503,Gouwens2019,484564503,Gouwens2019_481097326.0,L4/5 IT,False,True,normalization only
+484679812,Gouwens2019,484679812,Gouwens2019_481097331.0,L4/5 IT,False,True,normalization only
+485468180,Gouwens2019,485468180,Gouwens2019_485248926.0,L4/5 IT,False,True,normalization only
+485909730,Gouwens2019,485909730,Gouwens2019_485250100.0,L4/5 IT,False,True,normalization only
+485931158,Gouwens2019,485931158,Gouwens2019_485673591.0,L4/5 IT,False,True,normalization only
+486239338,Gouwens2019,486239338,Gouwens2019_485955776.0,L4/5 IT,False,True,normalization only
+486502127,Gouwens2019,486502127,Gouwens2019_486247108.0,L4/5 IT,False,True,normalization only
+488420599,Gouwens2019,488420599,Gouwens2019_487607532.0,L4/5 IT,False,True,normalization only
+502267531,Gouwens2019,502267531,Gouwens2019_501894834.0,L4/5 IT,False,True,normalization only
+502269786,Gouwens2019,502269786,Gouwens2019_501894834.0,L4/5 IT,False,True,normalization only
+502999078,Gouwens2019,502999078,Gouwens2019_502205054.0,L4/5 IT,False,True,normalization only
+510658021,Gouwens2019,510658021,Gouwens2019_508418873.0,L4/5 IT,False,True,normalization only
+513800575,Gouwens2019,513800575,Gouwens2019_512321708.0,L4/5 IT,False,True,normalization only
+521938313,Gouwens2019,521938313,Gouwens2019_520635740.0,L4/5 IT,False,True,normalization only
+640006296,Sorensen2026,640006296,Sorensen2026_351471,L2/3 IT,True,True,primary paired cohort
+661481525,Sorensen2026,661481525,Sorensen2026_374537,L2/3 IT,True,True,primary paired cohort
+705839974,Sorensen2026,705839974,Sorensen2026_394299,L2/3 IT,True,True,primary paired cohort
+706461666,Sorensen2026,706461666,Sorensen2026_394301,L2/3 IT,True,True,primary paired cohort
+739840659,Sorensen2026,739840659,Sorensen2026_408887,L2/3 IT,True,True,primary paired cohort
+740373591,Sorensen2026,740373591,Sorensen2026_408759,L2/3 IT,True,True,primary paired cohort
+824909637,Sorensen2026,824909637,Sorensen2026_442954,L2/3 IT,True,True,primary paired cohort
+824937690,Sorensen2026,824937690,Sorensen2026_442954,L2/3 IT,True,True,primary paired cohort
+847876759,Sorensen2026,847876759,Sorensen2026_454538,L2/3 IT,True,True,primary paired cohort
+867650384,Sorensen2026,867650384,Sorensen2026_462536,L2/3 IT,True,True,primary paired cohort
+889271408,Sorensen2026,889271408,Sorensen2026_470195,L2/3 IT,True,True,primary paired cohort
+891594369,Sorensen2026,891594369,Sorensen2026_470196,L2/3 IT,False,True,primary paired cohort
+895609799,Sorensen2026,895609799,Sorensen2026_471160,L2/3 IT,True,True,primary paired cohort
+895740736,Sorensen2026,895740736,Sorensen2026_471160,L2/3 IT,True,True,primary paired cohort
+898559010,Sorensen2026,898559010,Sorensen2026_471959,L2/3 IT,True,True,primary paired cohort
+898881170,Sorensen2026,898881170,Sorensen2026_471960,L2/3 IT,True,True,primary paired cohort
+899583778,Sorensen2026,899583778,Sorensen2026_471961,L2/3 IT,True,True,primary paired cohort
+904832267,Sorensen2026,904832267,Sorensen2026_473604,L2/3 IT,True,True,primary paired cohort
+904862358,Sorensen2026,904862358,Sorensen2026_473604,L2/3 IT,True,True,primary paired cohort
+910375338,Sorensen2026,910375338,Sorensen2026_476322,L2/3 IT,True,True,primary paired cohort
+912289883,Sorensen2026,912289883,Sorensen2026_476902,L2/3 IT,True,True,primary paired cohort
+912301547,Sorensen2026,912301547,Sorensen2026_476902,L2/3 IT,True,True,primary paired cohort
+912340608,Sorensen2026,912340608,Sorensen2026_476902,L2/3 IT,True,True,primary paired cohort
+912868696,Sorensen2026,912868696,Sorensen2026_476325,L2/3 IT,True,True,primary paired cohort
+912889454,Sorensen2026,912889454,Sorensen2026_476325,L2/3 IT,True,True,primary paired cohort
+912918179,Sorensen2026,912918179,Sorensen2026_476325,L2/3 IT,True,True,primary paired cohort
+914412754,Sorensen2026,914412754,Sorensen2026_477848,L2/3 IT,True,True,primary paired cohort
+915479566,Sorensen2026,915479566,Sorensen2026_478316,L2/3 IT,True,True,primary paired cohort
+919102928,Sorensen2026,919102928,Sorensen2026_479510,L2/3 IT,True,True,primary paired cohort
+919699890,Sorensen2026,919699890,Sorensen2026_479201,L2/3 IT,True,True,primary paired cohort
+922613228,Sorensen2026,922613228,Sorensen2026_483227,L2/3 IT,True,True,primary paired cohort
+924610453,Sorensen2026,924610453,Sorensen2026_483228,L2/3 IT,True,True,primary paired cohort
+925242241,Sorensen2026,925242241,Sorensen2026_483229,L2/3 IT,True,True,primary paired cohort
+926866005,Sorensen2026,926866005,Sorensen2026_482431,L2/3 IT,True,True,primary paired cohort
+927833265,Sorensen2026,927833265,Sorensen2026_482435,L2/3 IT,True,True,primary paired cohort
+929533489,Sorensen2026,929533489,Sorensen2026_481681,L2/3 IT,True,True,primary paired cohort
+935046071,Sorensen2026,935046071,Sorensen2026_484066,L2/3 IT,True,True,primary paired cohort
+936001075,Sorensen2026,936001075,Sorensen2026_484067,L2/3 IT,True,True,primary paired cohort
+947344218,Sorensen2026,947344218,Sorensen2026_486247,L2/3 IT,True,True,primary paired cohort
+947496055,Sorensen2026,947496055,Sorensen2026_486248,L2/3 IT,True,True,primary paired cohort
+950034792,Sorensen2026,950034792,Sorensen2026_486249,L2/3 IT,True,True,primary paired cohort
+950075297,Sorensen2026,950075297,Sorensen2026_486249,L2/3 IT,True,True,primary paired cohort
+952669499,Sorensen2026,952669499,Sorensen2026_488439,L2/3 IT,True,True,primary paired cohort
+954032889,Sorensen2026,954032889,Sorensen2026_488440,L2/3 IT,True,True,primary paired cohort
+954066469,Sorensen2026,954066469,Sorensen2026_488440,L2/3 IT,True,True,primary paired cohort
+962261526,Sorensen2026,962261526,Sorensen2026_491001,L2/3 IT,True,True,primary paired cohort
+962355052,Sorensen2026,962355052,Sorensen2026_491001,L2/3 IT,True,True,primary paired cohort
+962821095,Sorensen2026,962821095,Sorensen2026_491001,L2/3 IT,True,True,primary paired cohort
+963019667,Sorensen2026,963019667,Sorensen2026_490922,L2/3 IT,True,True,primary paired cohort
+963063283,Sorensen2026,963063283,Sorensen2026_490922,L2/3 IT,True,True,primary paired cohort
+603337985,Sorensen2026,603337985,Sorensen2026_335442,L4/5 IT,True,True,primary paired cohort
+603902877,Sorensen2026,603902877,Sorensen2026_337200,L4/5 IT,True,True,primary paired cohort
+604527243,Sorensen2026,604527243,Sorensen2026_337197,L4/5 IT,True,True,primary paired cohort
+612402470,Sorensen2026,612402470,Sorensen2026_342033,L4/5 IT,True,True,primary paired cohort
+612410245,Sorensen2026,612410245,Sorensen2026_342033,L4/5 IT,True,True,primary paired cohort
+628756464,Sorensen2026,628756464,Sorensen2026_346639,L4/5 IT,True,True,primary paired cohort
+637414095,Sorensen2026,637414095,Sorensen2026_348734,L4/5 IT,True,True,primary paired cohort
+639910703,Sorensen2026,639910703,Sorensen2026_350880,L4/5 IT,True,True,primary paired cohort
+640106757,Sorensen2026,640106757,Sorensen2026_350881,L4/5 IT,True,True,primary paired cohort
+640111874,Sorensen2026,640111874,Sorensen2026_350881,L4/5 IT,True,True,primary paired cohort
+642763833,Sorensen2026,642763833,Sorensen2026_353198,L4/5 IT,True,True,primary paired cohort
+642777215,Sorensen2026,642777215,Sorensen2026_353198,L4/5 IT,True,True,primary paired cohort
+643798256,Sorensen2026,643798256,Sorensen2026_355060,L4/5 IT,True,True,primary paired cohort
+645354028,Sorensen2026,645354028,Sorensen2026_357010,L4/5 IT,True,True,primary paired cohort
+645453340,Sorensen2026,645453340,Sorensen2026_357009,L4/5 IT,True,True,primary paired cohort
+645530172,Sorensen2026,645530172,Sorensen2026_353876,L4/5 IT,True,True,primary paired cohort
+648093076,Sorensen2026,648093076,Sorensen2026_358945,L4/5 IT,True,True,primary paired cohort
+651041745,Sorensen2026,651041745,Sorensen2026_362155,L4/5 IT,True,True,primary paired cohort
+652789704,Sorensen2026,652789704,Sorensen2026_362883,L4/5 IT,True,True,primary paired cohort
+652959315,Sorensen2026,652959315,Sorensen2026_366313,L4/5 IT,True,True,primary paired cohort
+656721795,Sorensen2026,656721795,Sorensen2026_367169,L4/5 IT,True,True,primary paired cohort
+680973517,Sorensen2026,680973517,Sorensen2026_382513,L4/5 IT,True,True,primary paired cohort
+681554845,Sorensen2026,681554845,Sorensen2026_383389,L4/5 IT,True,True,primary paired cohort
+681937682,Sorensen2026,681937682,Sorensen2026_383392,L4/5 IT,True,True,primary paired cohort
+681939807,Sorensen2026,681939807,Sorensen2026_383392,L4/5 IT,True,True,primary paired cohort
+711573106,Sorensen2026,711573106,Sorensen2026_396817,L4/5 IT,True,True,primary paired cohort
+716596648,Sorensen2026,716596648,Sorensen2026_397654,L4/5 IT,True,True,primary paired cohort
+717313398,Sorensen2026,717313398,Sorensen2026_399114,L4/5 IT,True,True,primary paired cohort
+764477652,Sorensen2026,764477652,Sorensen2026_418336,L4/5 IT,True,True,primary paired cohort
+792687812,Sorensen2026,792687812,Sorensen2026_430206,L4/5 IT,True,True,primary paired cohort
+819950000,Sorensen2026,819950000,Sorensen2026_441765,L4/5 IT,True,True,primary paired cohort
+825002523,Sorensen2026,825002523,Sorensen2026_443197,L4/5 IT,True,True,primary paired cohort
+841871826,Sorensen2026,841871826,Sorensen2026_451124,L4/5 IT,True,True,primary paired cohort
+847902873,Sorensen2026,847902873,Sorensen2026_454538,L4/5 IT,True,True,primary paired cohort
+887207252,Sorensen2026,887207252,Sorensen2026_468437,L4/5 IT,True,True,primary paired cohort
+899711102,Sorensen2026,899711102,Sorensen2026_471972,L4/5 IT,True,True,primary paired cohort
+901424290,Sorensen2026,901424290,Sorensen2026_473099,L4/5 IT,True,True,primary paired cohort
+948126701,Sorensen2026,948126701,Sorensen2026_486796,L4/5 IT,True,True,primary paired cohort
+948429967,Sorensen2026,948429967,Sorensen2026_487220,L4/5 IT,True,True,primary paired cohort
+992219189,Sorensen2026,992219189,Sorensen2026_499548,L4/5 IT,True,True,primary paired cohort
+992394456,Sorensen2026,992394456,Sorensen2026_499550,L4/5 IT,True,True,primary paired cohort
+20180102_sample_5,Scala2021,20180102_sample_5,Scala2021_mouse_HXCVU,L4/5 IT,True,True,sensitivity cohort
+20180220_sample_2,Scala2021,20180220_sample_2,Scala2021_mouse_POHNW,L4/5 IT,True,True,sensitivity cohort
+20180225_sample_1,Scala2021,20180225_sample_1,Scala2021_mouse_YHUPM,L2/3 IT,True,True,sensitivity cohort
+20180225_sample_3,Scala2021,20180225_sample_3,Scala2021_mouse_YHUPM,L4/5 IT,True,True,sensitivity cohort
+20180228_sample_3,Scala2021,20180228_sample_3,Scala2021_mouse_ROUXZ,L2/3 IT,True,True,sensitivity cohort
+20180306_sample_2,Scala2021,20180306_sample_2,Scala2021_mouse_YMIOM,L2/3 IT,True,True,sensitivity cohort
+20180306_sample_3,Scala2021,20180306_sample_3,Scala2021_mouse_YMIOM,L2/3 IT,True,True,sensitivity cohort
+20180315_sample_5,Scala2021,20180315_sample_5,Scala2021_mouse_AEJGZ,L2/3 IT,True,True,sensitivity cohort
+20180410_sample_4,Scala2021,20180410_sample_4,Scala2021_mouse_SGQTD,L2/3 IT,True,True,sensitivity cohort
+20180410_sample_5,Scala2021,20180410_sample_5,Scala2021_mouse_SGQTD,L2/3 IT,True,True,sensitivity cohort
+20180410_sample_6,Scala2021,20180410_sample_6,Scala2021_mouse_SGQTD,L2/3 IT,True,True,sensitivity cohort
+20180411_sample_1,Scala2021,20180411_sample_1,Scala2021_mouse_EWGMO,L2/3 IT,True,True,sensitivity cohort
+20180412_sample_4,Scala2021,20180412_sample_4,Scala2021_mouse_KDMGS,L2/3 IT,True,True,sensitivity cohort
+20180424_sample_2,Scala2021,20180424_sample_2,Scala2021_mouse_MICGF,L2/3 IT,True,True,sensitivity cohort
+20180424_sample_3,Scala2021,20180424_sample_3,Scala2021_mouse_MICGF,L2/3 IT,True,True,sensitivity cohort
+20180425_sample_2,Scala2021,20180425_sample_2,Scala2021_mouse_HIEAS,L2/3 IT,True,True,sensitivity cohort
+20180426_sample_3,Scala2021,20180426_sample_3,Scala2021_mouse_JLXOV,L2/3 IT,True,True,sensitivity cohort
+20180426_sample_7,Scala2021,20180426_sample_7,Scala2021_mouse_JLXOV,L4/5 IT,True,True,sensitivity cohort
+20180501_sample_2,Scala2021,20180501_sample_2,Scala2021_mouse_XITQQ,L2/3 IT,True,True,sensitivity cohort
+20180502_sample_3,Scala2021,20180502_sample_3,Scala2021_mouse_ZTLGB,L4/5 IT,True,True,sensitivity cohort
+20180508_sample_3,Scala2021,20180508_sample_3,Scala2021_mouse_CQEQX,L2/3 IT,True,True,sensitivity cohort
+20180509_sample_4,Scala2021,20180509_sample_4,Scala2021_mouse_QQBBV,L2/3 IT,True,True,sensitivity cohort
+20180509_sample_5,Scala2021,20180509_sample_5,Scala2021_mouse_QQBBV,L2/3 IT,True,True,sensitivity cohort
+20180510_sample_5,Scala2021,20180510_sample_5,Scala2021_mouse_WEAAS,L4/5 IT,True,True,sensitivity cohort
+20180522_sample_7,Scala2021,20180522_sample_7,Scala2021_mouse_WDWKX,L2/3 IT,True,True,sensitivity cohort
+20180709_sample_2,Scala2021,20180709_sample_2,Scala2021_mouse_EEWII,L2/3 IT,True,True,sensitivity cohort
+20180712_sample_13,Scala2021,20180712_sample_13,Scala2021_mouse_XTKQH,L2/3 IT,True,True,sensitivity cohort
+20180725_sample_3,Scala2021,20180725_sample_3,Scala2021_mouse_ANUPT,L2/3 IT,True,True,sensitivity cohort
+20180817_sample_6,Scala2021,20180817_sample_6,Scala2021_mouse_APLSV,L4/5 IT,True,True,sensitivity cohort
+20180820_sample_6,Scala2021,20180820_sample_6,Scala2021_mouse_WVNFF,L2/3 IT,True,True,sensitivity cohort
+20180926_sample_9,Scala2021,20180926_sample_9,Scala2021_mouse_NPNLS,L2/3 IT,True,True,sensitivity cohort
+20190110_sample_7,Scala2021,20190110_sample_7,Scala2021_mouse_CAASK,L2/3 IT,True,True,sensitivity cohort
+20190117_sample_2,Scala2021,20190117_sample_2,Scala2021_mouse_ELCAA,L4/5 IT,True,True,sensitivity cohort
+20190117_sample_4,Scala2021,20190117_sample_4,Scala2021_mouse_ELCAA,L4/5 IT,True,True,sensitivity cohort
+20190122_sample_2,Scala2021,20190122_sample_2,Scala2021_mouse_HJKLM,L2/3 IT,True,True,sensitivity cohort
+20190226_sample_6,Scala2021,20190226_sample_6,Scala2021_mouse_CWKKR,L4/5 IT,True,True,sensitivity cohort
+20190322_sample_2,Scala2021,20190322_sample_2,Scala2021_mouse_SHPMA,L2/3 IT,True,True,sensitivity cohort
+20190430_sample_9,Scala2021,20190430_sample_9,Scala2021_mouse_OQKUZ,L2/3 IT,True,True,sensitivity cohort
+20190606_sample_6,Scala2021,20190606_sample_6,Scala2021_mouse_SOYWW,L2/3 IT,True,True,sensitivity cohort
+20190917_sample_3,Scala2021,20190917_sample_3,Scala2021_mouse_JEJAV,L4/5 IT,True,True,sensitivity cohort
+20191010_sample_3,Scala2021,20191010_sample_3,Scala2021_mouse_LZMHR,L4/5 IT,True,True,sensitivity cohort
+20200106_sample_4,Scala2021,20200106_sample_4,Scala2021_mouse_NYQSO,L2/3 IT,True,True,sensitivity cohort

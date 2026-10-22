@@ -1,36 +1,20 @@
-# Perturb-CLEAR
+# Perturb-CLEAR analysis code and processed data
 
-We developed Perturb-CLEAR, which integrates pooled CRISPR screening and whole-mount imaging to quantify brain-wide cytoarchitecture, and paired it with Perturb-seq to link structural phenotypes to transcriptomic changes. Applying Perturb-CLEAR to the developing mouse cortex revealed morphogenesis trajectories accompanied by transcriptomic dynamics. Moreover, systematic perturbation of NDD risk genes uncovered gene-specific multimodal phenotypes. Combined morphology and transcriptome analyses link NDD risk genes to concordant multimodal cellular phenotypes in the developing brain, highlighting diverse paths of perturbation effect propagation across modalities.
+This repository contains the analysis scripts and compact data tables used for the Perturb-CLEAR morphology, Perturb-seq, and multimodal analyses.
 
-## System requirements and installation guide
-For softwares or packages, the system requiresments and installation guide can be found on their source websites: 
-- **Imaris 10.2.0**: https://imaris.oxinst.com/support/installation-instructions
-- **neuTube v1.0z**: https://neutracing.com/download/
-- **Imagej v1.54r**: https://imagej.net/downloads
-- **R v4.0.3**: https://cran.r-project.org/doc/manuals/r-release/R-admin.html
-- **Python 3.12** https://www.python.org/downloads  
+## Contents
 
-The expected install time for each software or package should be < 2 hrs.  
-The scripts will run on any system that with R and Python installed.
+- `scripts/1_Morphology`: morphology extraction, clustering, screen analysis, classifier validation, and Adnp follow-up analyses.
+- `scripts/2_Perturb_seq`: Perturb-seq object construction, perturbation relabeling, cell-composition analysis, and differential expression.
+- `scripts/3_Multimodal`: fixed-reference mapping, RNA-subpopulation and morphology summaries, morphology separation, marker analysis, enrichment, and Adnp module analyses.
+- `data/Morphology`: project-owned morphometric measurements, sample summaries, and the 36-feature panel.
+- `data/Multimodal`: processed published-neuron morphometrics, the Perturb-CLEAR morphology reference, mapping scores, metadata, and the morphology-separation input.
+- `Environment and package requirements.md`, `data/Published datasets.md`, and `data/Data package guide.md`: software requirements, source-data links, and the released data inventory.
 
-## Scripts
-### Image segmentation
-- **generate_output_windows.py**: Image processing to create crops of individual neurons using soma coordinates.
+## Getting started
 
-### Morphology data QC and quantification
-- **swc_qc.py**: script-based quality control of .swc files to remove tracing artifacts  
-- **morphometric_feature_extraction.py**: Extract standard morphometrics from swc files
+Install the packages listed in `Environment and package requirements.md`. Run scripts for each relevant workflow. Each script lists its command-line arguments at the beginning.
 
-### Perturb-CLEAR downstream analysis
-- **Analysis.Data.R**: morphology-based clustering, cell type labeling, perturbation testing, and NMF analysis  
-- **Cluster.R**: Contains helper functions used in the Analysis.Data.R
+## Data provenance
 
-### Perturb-seq downstream analysis
-- **DETest.R**: Identify DEGs using glmGamPoi
-
-### Developmental Omics
-- **ComplexHeatmap_L2-3_L4-5_IT.R**: Visualize gene expression patterns across neuronal subtypes
-- **DESeq2_Testing_Mouse_DevVIS_Age.R**: Perform differential expression analysis across developmental ages
-- **DEGs_Grouping_by_Expression_Trend.R**: Cluster DEGs based on shared expression dynamics
-- **gProfileR_Enrich_by_Expression_Trend.R**: Run pathway and gene set enrichment analysis for genes grouped by expression trends
-- **NDD_RiskGenes_FisherEnrichTest.R**: Test enrichment of neurodevelopmental disorder risk genes using Fisher’s exact test
+Sorensen et al. neurons are the primary paired RNA and morphology cohort. Scala et al. neurons provide a sensitivity cohort. Gouwens et al. morphology data contribute only to normalization. Source links are provided in `data/Published datasets.md`.
